@@ -11,7 +11,7 @@ I binSer(I l, I r, bool up){
 } // Approved (1654-37716922)
 
 template<class I>
-I binLft(int x, bool up){
+I binJmp(int x, bool up){
 	I ans = 0;
 	for (int b = x; b >= 0; b--){
 		I bit = (I)1 << b;
@@ -19,4 +19,4 @@ I binLft(int x, bool up){
 	}
 	if (!up){ return ans; }
 	else{ return ans+1; }
-}
+} // Approved (1654-37716998)
