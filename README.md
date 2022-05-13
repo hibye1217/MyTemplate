@@ -1,7 +1,11 @@
 # MyTemplate
 PS Template for me.
+It's for reading purpose, not for using purpose.
+Also I didn't test these code so use it for your own risk.
 
-## 현재 있는 것들
+## Currently...
 - Main
-    - main.cpp: Initial template.
-    - template.cpp: Additional templates.
+    - solving.cpp: Template for PS
+    - competitive.cpp: Template for CP
+- Mathematics
+    - 
